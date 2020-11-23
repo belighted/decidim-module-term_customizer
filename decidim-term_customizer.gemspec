@@ -7,12 +7,12 @@ require "decidim/term_customizer/version"
 Gem::Specification.new do |spec|
   spec.name = "decidim-term_customizer"
   spec.version = Decidim::TermCustomizer::VERSION
-  spec.authors = ["Antti Hukkanen"]
-  spec.email = ["antti.hukkanen@mainiotech.fi"]
+  spec.authors = ["Belighted"]
+  spec.email = ["info@belighted.com"]
 
   spec.summary = "Provides possibility to customize Decidim's localized terms."
   spec.description = "Adds a UI to customize the terms and limit the customizations to specific places."
-  spec.homepage = "https://github.com/mainio/decidim-module-term_customizer"
+  spec.homepage = "https://github.com/belighted/decidim-module-term_customizer"
   spec.license = "AGPL-3.0"
 
   spec.files = Dir[
